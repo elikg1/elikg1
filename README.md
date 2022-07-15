@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elik Goldberg
+- 👋 Hi, I’m Elik Goldberg
 - 👀 I’m interested in Data analysis
 
 <!---
